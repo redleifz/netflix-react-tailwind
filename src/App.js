@@ -6,6 +6,7 @@ import Account from "./pages/Account";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
+import React from "react";
 
 function App() {
   return (
